@@ -1,0 +1,10 @@
+{
+    "author" : "Enrico Murru",
+    "description" : "Awesome Plugin",
+    "version" : "1.2",
+    "type" : "TAB",
+    "wiki-url" : "https://enree.co",
+    "id" : "P0000001",
+    "author-id" : "U0000001",
+    "url" : "https://raw.githubusercontent.com/SF-Organizer/sforg-test-repo/master/P_U0000001_P0000001/script.js"
+}
