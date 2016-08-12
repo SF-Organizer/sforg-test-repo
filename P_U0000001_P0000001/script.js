@@ -6,3 +6,4 @@ $.get(
 				  console.log(data);
 				}
 				);
+console.log(PopupUtils.StandardLoginURLs);
